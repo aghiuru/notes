@@ -4,13 +4,13 @@
 * Our innate biological rhythm is not precisely twenty-four hours — circadian: circa, dia
 * To find out our circadian rhythm, we measure our core body temperature over the course of a day
 * The typical rhythm is:
-** noon: 36.85 degrees
-** 6pm: 37.15 degrees
-** 1am: 37 degrees
+  - noon: 36.85 degrees
+  - 6pm: 37.15 degrees
+  - 1am: 37 degrees
 * Chronotypes:
-** morning types (40% of the population)
-** evening types (30%)
-** and the rest lie in between
+  - morning types (40% of the population)
+  - evening types (30%)
+  - and the rest lie in between
 * The chronotype is strongly determined by genetics — _how much, he doesn't say_
 * Work scheduling is biased towards early start times
 
@@ -18,10 +18,10 @@
 * Melatonin helps regulate the timing of when sleep occurs by signaling darkness
 * However, it does not generate sleep
 * The typical melatonin cycle is:
-** noon: 8 pg/ml plasma
-** 6pm: 8, starts increasing
-** 4am: peaks at 40
-** 6am: back to 8
+  - noon: 8 pg/ml plasma
+  - 6pm: 8, starts increasing
+  - 4am: peaks at 40
+  - 6am: back to 8
 
 ### Traveling
 * For every day we are in a different timezone, we can only readjust by about one hour
@@ -41,11 +41,11 @@
 ## Chapter 3: Defining and generating sleep
 ### Stages of the sleep cycle
 * 90 minute cycles, 5 different stages:
-** Wake
-** REM
-** NREM Stage 1
-** NREM Stage 2
-** NREM Stage 3-4 (slow wave sleep)
+  - Wake
+  - REM
+  - NREM Stage 1
+  - NREM Stage 2
+  - NREM Stage 3-4 (slow wave sleep)
 * During REM (dream stage), we are completely paralysed, but our eyes move: these eye movements do not track the visual experience in dreams
 
 ## Chapter 6: The benefits of sleep for the brain
@@ -84,9 +84,9 @@
 * After 10 days of 7 hours of sleep, the brain is as dysfunctional as after an all-nighter — it was 6 hours the previous chapter?
 * Sleep apnea (associated by being overweight) causes chronic sleep deprivation
 * If we notice ourselves drowsy:
-** we pull off the road and take a brief nap (20-30 minutes)
-** we do not start driving immediately after waking up, we will be suffering from sleep inertia
-** wait for another 20-30 minutes
+  - we pull off the road and take a brief nap (20-30 minutes)
+  - we do not start driving immediately after waking up, we will be suffering from sleep inertia
+  - wait for another 20-30 minutes
 
 ### Emotional irrationality
 * The amygdala shows well over 60% amplification in emotional reactivity after an all-nighter
@@ -120,10 +120,10 @@
 
 ## Chapter 9: REM-Sleep Dreaming
 * Parts of the brain that light up during REM sleep:
-** the visual perception
-** the motor cortex, which instigates movement
-** the hippocampus and surrounding regions, which support your autobiographical memory
-** the deep emotional centres of the brain — 30% more active than when we are awake!
+  - the visual perception
+  - the motor cortex, which instigates movement
+  - the hippocampus and surrounding regions, which support your autobiographical memory
+  - the deep emotional centres of the brain — 30% more active than when we are awake!
 * Deactivation of the prefrontal cortex
 * We can predict the form of someone's dream: visual, motoric, emotional
 * Same patterns of activation to stimuli as when we are awake — thus, by studying someone's brain when awake, we could predict the contents of their dreams
