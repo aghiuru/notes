@@ -55,7 +55,7 @@
 * A 90-minute siesta improves learning by 20% — the book is abounding in round numbers
 * Sleep spindles happen during NREM Stage 2
 * The more sleep spindles during sleep, the greater the restoration of the learning
-* *Seniors (60-80 years old) suffer a 40% deficit in terms of slepep spindles*
+* **Seniors (60-80 years old) suffer a 40% deficit in terms of slepep spindles**
 * For fact-based learning, early-night sleep, rich in deep NREM, provides better memory retention than late-night, REM-rich sleep
 * MRI scans show that sleep spindles "move" information from the back of the brain (hippocampus) to the front (neocortex)
 * tDCS: transcranial direct current brain stimulation, shown to generate spindles and improve memory retention as much as 40% — _but then he says "do not try this at home"?_
@@ -66,7 +66,7 @@
 * Muscle memory resides in the brain
 * If we try to learn to type a sequence on a keyboard, for instance, after an 8-hour sleep, we experience a 20% increase in speed and a 35% increase in accuracy
 * Rather than transferring to long-term memory like in the case of fact-based learning, the motor memories had been shifted to brain circuits that operate below the level of consciousness
-* *The increases in speed and accuracy were directly related to the amount of NREM Stage 2 sleep, especially in the last 2 hours of a 8-hour sleep*
+* **The increases in speed and accuracy were directly related to the amount of NREM Stage 2 sleep, especially in the last 2 hours of a 8-hour sleep**
 * We see a spike in NREM Stage 2 sleep in infants as they transition from crawling to walking
 
 ## Chapter 7: Sleep deprivation and the brain
@@ -78,7 +78,7 @@
 
 ### We can't tell how sleep deprived we are
 * We underestimate our degree of performance disability
-* *We need 4 nights of 8-hour sleep for the performance to get back to normal*
+* **We need 4 nights of 8-hour sleep for the performance to get back to normal**
 * After being awake for 19 hours, we are as cognitively impaired as when legally drunk
 * The recycle rate of a human being is 16 hours. After 16 hours of being awake, the brain begins to fail.
 * After 10 days of 7 hours of sleep, the brain is as dysfunctional as after an all-nighter — it was 6 hours the previous chapter?
@@ -91,17 +91,17 @@
 ### Emotional irrationality
 * The amygdala shows well over 60% amplification in emotional reactivity after an all-nighter
 * Insufficient sleep does not push the brain into a negative mood, but creates the conditions for excessive swings to both extremes, positive and negative
-* *Sleep disturbance is a recognized hallmark associated with addictive substance abuse*
+* **Sleep disturbance is a recognized hallmark associated with addictive substance abuse**
 * When sleep deprived, we can show similar brain activity patterns to brains affected by psychiatric illnesses
 
-* *If you don't sleep the very first night after learning, you lose the chance to consolidate memories, even if you get lots of "catch-up" sleep thereafter.*
+* **If you don't sleep the very first night after learning, you lose the chance to consolidate memories, even if you get lots of "catch-up" sleep thereafter.**
 
 ### Sleep and Alzheimer's disease
 * A lack of sleep is fast becoming recognized as a key lifestyle factor determining whether or not we will develop Alzheimer's disease
 * Alzheimer's disease is associated with the build-up of a toxic form of protein called beta-amyloid
 * Beta-amyloid aggregates in sticky clumps within the brain, killing the surrounding brain cells
 * The more amyloid deposits in the middle regions of the frontal lobe, the more impaired the deep-sleep quality is, thus preventing memory retrieval from the hippocampus
-* *The glial cells of the brain are shrinking in size by up to 60% during NREM sleep, allowing the cerebrospinal fluid to proficiently clean out the amyloid protein*
+* **The glial cells of the brain are shrinking in size by up to 60% during NREM sleep, allowing the cerebrospinal fluid to proficiently clean out the amyloid protein**
 * Wakefulness is low-level brain damage
 
 ## Chapter 8: Sleep deprivation and the body
@@ -109,11 +109,11 @@
 * A lack of sleep further erodes the fabric of the coronary arteries
 * If we sleep 5-6 hours a night or less, we are 2-3 times more likely to suffer calcification of our coronary arteries over the next 5 years
 * Growth hormone is shut down by the state of sleep deprivation
-* *In the autumn when the clocks move back and we gain an hour of sleep, rates of heart attack plummet the day after. Unfortunately, the reverse is also true: the loss of an hour of sleep opportunity leads to a frightening spike in heart attacks the next day.*
+* **In the autumn when the clocks move back and we gain an hour of sleep, rates of heart attack plummet the day after. Unfortunately, the reverse is also true: the loss of an hour of sleep opportunity leads to a frightening spike in heart attacks the next day.**
 * When given just 5.5 hours of sleep opportunity, more than 70% of the weight loss comes from muscle
 * Sleeping 5 hours for 7 days ages men hormonally by 10 years
 * Women working erratic hours are 80% more likely to suffer from issues of sub-fertility
-* *Test: measured sleep of a group of a 150 healthy people, then after a week were given a shot the common cold virus — 5.5 hours of sleep lead to 50% infection, 7 hours of more, just 18%*
+* **Test: measured sleep of a group of a 150 healthy people, then after a week were given a shot the common cold virus — 5.5 hours of sleep lead to 50% infection, 7 hours of more, just 18%**
 * Sleep impacts our response to the standard flu vaccine. Those who slept 7-9 hours or more during the week prior to the flu shot, generated a powerful antibody reaction. Even 2-3 weeks of recovery sleep can't build the full immune reaction to the flu shot.
 * A single night of four hours of sleep swept away 70% of the natural killer cells, relative to 8 hours
 * WHO has officially classified nighttime shift as a "potential carcinogen"
@@ -123,10 +123,10 @@
   - the visual perception
   - the motor cortex, which instigates movement
   - the hippocampus and surrounding regions, which support your autobiographical memory
-  - *the deep emotional centres of the brain — 30% more active than when we are awake!*
+  - **the deep emotional centres of the brain — 30% more active than when we are awake!**
 * Deactivation of the prefrontal cortex
 * We can predict the form of someone's dream: visual, motoric, emotional
-* *Same patterns of activation to stimuli as when we are awake — thus, by studying someone's brain when awake, we could predict the contents of their dreams*
+* **Same patterns of activation to stimuli as when we are awake — thus, by studying someone's brain when awake, we could predict the contents of their dreams**
 
 ## Chapter 10: Dreaming as Overnight Therapy
 * First function of dreaming involves nursing our emotional and mental health
@@ -138,7 +138,7 @@
 * For curing the depression, it was only those patients who have expressly dreaming about the painful experiences around the time of the events who went on to gain clinical resolution from their despair
 * The drug prazosin which is usually prescribed simply to lower blood pressure also has also the side effect of suppressing noradrenaline in the brain, thus helping the PTSD patients to restore healthier quality REM sleep
 * When we are sleep deprived we tend to sleep into the default of fear bias, believing even gentle or somewhat friendly looking faces as menacing
-* *This REM sleep recalibration service comes into its own just prior to the transition to adolescence*
+* **This REM sleep recalibration service comes into its own just prior to the transition to adolescence**
 
 ## Chapter 11: Dream creativity
 * Chemical properties of sleep willing after we wake up linger, creating an inertia that separates wakefulness from sleep and lasts some minutes
