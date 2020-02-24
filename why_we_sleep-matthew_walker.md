@@ -55,7 +55,7 @@
 * A 90-minute siesta improves learning by 20% — the book is abounding in round numbers
 * Sleep spindles happen during NREM Stage 2
 * The more sleep spindles during sleep, the greater the restoration of the learning
-* **Seniors (60-80 years old) suffer a 40% deficit in terms of slepep spindles**
+* **Seniors (60-80 years old) suffer a 40% deficit in terms of sleep spindles**
 * For fact-based learning, early-night sleep, rich in deep NREM, provides better memory retention than late-night, REM-rich sleep
 * MRI scans show that sleep spindles "move" information from the back of the brain (hippocampus) to the front (neocortex)
 * tDCS: transcranial direct current brain stimulation, shown to generate spindles and improve memory retention as much as 40% — _but then he says "do not try this at home"?_
